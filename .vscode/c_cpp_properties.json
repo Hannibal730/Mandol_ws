@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/humble/include/**",
+        "/home/yoo/workspace/Mandol_ws/src/RTK_GPS_NTRIP/ublox_gps/include/**",
+        "/home/yoo/workspace/Mandol_ws/src/RTK_GPS_NTRIP/ublox_msgs/include/**",
+        "/home/yoo/workspace/Mandol_ws/src/RTK_GPS_NTRIP/ublox_serialization/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
